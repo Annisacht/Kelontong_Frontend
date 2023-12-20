@@ -30,7 +30,6 @@ function Navbar({ products }) {
               <div className="flex-grow-1">
                 <Link to="/">
                   <a className="navbar-brand text-primary fw-bold">
-                    <img alt="Kelontong" />
                   </a>
                 </Link>
               </div>
