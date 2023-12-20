@@ -5,7 +5,7 @@ function About() {
     return (
         <>
             <section className="wrapper-about">
-                <div className="container-fluid">
+                <div className="container">
                     <div className="row pt-5 px-5">
                         <div className="col-sm-6 text-about">
                             <h2>Mempermudah kamu mengelola tokomu!</h2>
